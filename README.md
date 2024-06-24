@@ -13,7 +13,4 @@ WebCalc is a sleek, user-friendly web-based calculator built using HTML, CSS, an
 
 
 
-## Screenshots
-
-![App Screenshot]()
 
