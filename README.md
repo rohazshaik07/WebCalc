@@ -26,10 +26,6 @@ https://github.com/rohazshaik07/Landing-Page/assets/173455762/66d53986-258c-4bb5
 - **Modern UI/UX:** Clean and user-friendly interface.
 - **Fast Load Times:** Optimized for performance.
 - **Easy Customization:** Simple structure for quick edits and updates.
-## Demo
-
-https://github.com/rohazshaik07/Landing-Page/assets/173455762/4a6631cb-7077-41c6-828c-21db670aaeb6
-
 
 ## 🚀 About Me
 I'm a Web developer...
