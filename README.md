@@ -20,13 +20,6 @@ https://github.com/rohazshaik07/Landing-Page/assets/173455762/66d53986-258c-4bb5
 
 
 
-## Features
-
-- **Responsive Design:** Optimized for all devices, including desktops, tablets, and mobile phones.
-- **Modern UI/UX:** Clean and user-friendly interface.
-- **Fast Load Times:** Optimized for performance.
-- **Easy Customization:** Simple structure for quick edits and updates.
-
 ## 🚀 About Me
 I'm a Web developer...
 
